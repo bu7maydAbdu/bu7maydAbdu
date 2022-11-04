@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moabdu.netlify.app/](https://moabdu.netlify.app/)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rwXJi81U75puKjoWVsdK39pHEi--Wpzl/edit](https://docs.google.com/document/d/1rwXJi81U75puKjoWVsdK39pHEi--Wpzl/edit)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1rwXJi81U75puKjoWVsdK39pHEi--Wpzl/edit](https://docs.google.com/document/d/1rwXJi81U75puKjoWVsdK39pHEi--Wpzl/edit) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
